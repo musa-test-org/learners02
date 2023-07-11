@@ -2,7 +2,7 @@
 
 ## Requirements
 
-1. We want to build a function that modifies the input into all lower.
+1. We want to build a function that modifies the input into all lowercase.
 
 ## Instructions
 
